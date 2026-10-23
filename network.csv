@@ -1,0 +1,6 @@
+Device,IP,Status
+Router,192.168.1.1,Online
+Switch,192.168.1.2,Online
+Server,192.168.1.10,Offline
+PC-01,192.168.1.101,Online
+PC-02,192.168.1.102,Offline
