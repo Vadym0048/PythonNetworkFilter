@@ -221,3 +221,4 @@ __marimo__/
 # Include educational sample logs
 !network.log
 !firewall.log
+!auth.log
